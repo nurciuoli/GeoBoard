@@ -6,7 +6,7 @@ from folium import Marker, Popup, Icon
 from pathlib import Path
 
 # Tag-to-color mapping
-color_dict = {'family': 'red', 'history': 'green', 'food': 'orange', 'trips': 'purple'}
+color_dict = {'nick': 'red','urciuoli':'gray','finazzo':'lightblue','morgan':'pink', 'history': 'green', 'food': 'orange', 'trips': 'purple'}
 
 
 # Set up the Streamlit app
